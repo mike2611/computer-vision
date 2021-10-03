@@ -32,7 +32,7 @@ resultados.to_csv('grayScale.csv')
 imagenColor = pd.DataFrame(imagenColor)
 imagenColor.to_csv('RGB.csv')
 
-print("Finalizado")
+print("Finish")
 
 
 

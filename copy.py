@@ -1,6 +1,5 @@
 import cv2
 import numpy as np
-import pandas as pd
 from PIL import Image
 
 
@@ -37,7 +36,4 @@ img.save('copyImage.png')
 
 matrizCopia = matrizCopia + matrizCopia
 
-matrizCopia = pd.DataFrame(matrizCopia)
-matrizCopia.to_csv('copy.csv')
-
-print("Finalizado")
+print("Finish")
