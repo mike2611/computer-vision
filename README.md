@@ -4,12 +4,13 @@
  
 ## Built With
 
-- Python, pandas , numpy
+- Python, Pandas , Numpy
 
 
 ## Run
 
-- With python 3 installed run python3 name_project.py
+- Install Python 3 
+- Run python3 name_project.py
 
 
 ## Authors
